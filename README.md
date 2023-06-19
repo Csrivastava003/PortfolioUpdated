@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio <br/>
-  <a href="" target="_blank">soumyajit.tech</a>
+  <a href="https://portfolio-9qla.onrender.com/" target="_blank">Chirag Srivastava</a>
 </h2>
 
 
@@ -8,7 +8,7 @@
 
 ## Built With
 
-Portfolio website <a href="" target="_blank">Chirag_Srivastava</a> which serves as an online resume <br/>
+Portfolio website  which serves as an online resume <br/>
 
 This project was built using these technologies.
 

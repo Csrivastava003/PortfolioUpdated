@@ -6,7 +6,6 @@ import Typewriter from "typewriter-effect";
 import {
   AiFillGithub,
   AiOutlineTwitter,
-  AiFillInstagram,
   AiOutlineLike,
   AiOutlineMail,
 } from "react-icons/ai";
@@ -21,7 +20,7 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               No Place like <span className="purple"> 127.0.0.1 </span> 😄            </h1>
             <p className="home-about-body">
-            Hi,  I'm a senior currently pursuing Bachelor's electrical engineering. I'm passionate about programming
+            Hi, I'm a senior at Motilal Nehru National Institute of Technology,Prayagraj currently pursuing Bachelor's electrical engineering. I'm passionate about programming
               <br />
               <br />I have a strong foundation in object-oriented programming and 
               I'm proficient in <b className="purple"> C++,Python</b> and <b className="purple"> Javascript </b> 
