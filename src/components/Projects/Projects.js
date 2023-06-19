@@ -61,7 +61,7 @@ function Projects() {
               title="Portfolio"
               description="Personal portfolio website created using React.js"
               ghLink="https://github.com/Csrivastava003/PortfolioUpdated"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              demoLink="https://portfolio-9qla.onrender.com/"
             />
           </Col>
         </Row>
