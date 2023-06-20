@@ -20,37 +20,15 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               No Place like <span className="purple"> 127.0.0.1 </span> 😄            </h1>
             <p className="home-about-body">
-            Hi, I'm a senior at Motilal Nehru National Institute of Technology,Prayagraj currently pursuing Bachelor's electrical engineering. I'm passionate about programming
+            I'm a senior electrical engineering student at Motilal Nehru National Institute of Technology, Prayagraj.
               <br />
               <br />I have a strong foundation in object-oriented programming and 
               I'm proficient in <b className="purple"> C++,Python</b> and <b className="purple"> Javascript </b> 
               <br />
               <br/>I'm also familiar with  machine learning frameworks, such as <b className="purple"> Tensorflow,Scikit-learn </b> ,data tools such as <b className="purple"> Numpy,Pandas </b> and modern JavaScript libraries and frameworks, 
               such as <b className="purple"> React.js and Next.js.</b>
-              <i>
-              </i>
               <br />
               <br />
-              {/* My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Blockchain.
-                </b>
-              </i> */}
-              {/* /* Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i> */}
               <br />
               <Typewriter
       options={{
@@ -81,7 +59,7 @@ function Home2() {
             <ul className="home-about-social-links">
             <li className="social-icons">
                 <a
-                  href="mailto:chiargsrivastava18@gmail.com"
+                  href="mailto:chiragsrivastava18@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
